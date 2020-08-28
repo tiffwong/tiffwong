@@ -1,3 +1,3 @@
-![GitHub Logo](/avatar.gif)
+![tiffwong](/avatar.gif)
 
 :round_pushpin: Philadelphia, PA
