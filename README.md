@@ -2,7 +2,7 @@
 
 # Hello, my name is Tiffany!
 
-`Front-End Developer @linode`
+`Software Engineer @linode`
 
 `Alumni @drexel`
 
