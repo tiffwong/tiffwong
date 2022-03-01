@@ -2,9 +2,9 @@
 
 # Hello, my name is Tiffany!
 
-`Software Engineer @linode`
+`software engineer @linode`
 
-`Alumni @drexel`
+`alumni @drexel`
 
 :round_pushpin: Philadelphia, PA
 
